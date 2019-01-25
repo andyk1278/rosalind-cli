@@ -1,0 +1,211 @@
+ID 	Title 	Solved By 	Correct Ratio 	Questions 	Solutions 	Explanation
+DNA 	Counting DNA Nucleotides 	35338 	
+	2 days 	1 week 	1 year
+RNA 	Transcribing DNA into RNA 	31574 	
+	4 weeks 	1 day 	2 years
+REVC 	Complementing a Strand of DNA 	28598 	
+	9 months 	1 day 	2 years
+FIB 	Rabbits and Recurrence Relations 	16286 	
+	4 months 	1 day 	7 months
+GC 	Computing GC Content 	16770 	
+	1 month 	18 hours 	5 years
+HAMM 	Counting Point Mutations 	18971 	
+	7 months 	3 months 	2 years
+PROT 	Translating RNA into Protein 	14771 	
+	4 months 	3 weeks 	5 years
+SUBS 	Finding a Motif in DNA 	15149 	
+	10 months 	2 weeks 	2 years
+IPRB 	Mendel's First Law 	10836 	
+	  	  	 
+CONS 	Consensus and Profile 	8438 	
+	9 months 	  	 
+FIBD 	Mortal Fibonacci Rabbits 	7014 	
+	  	  	 
+GRPH 	Overlap Graphs 	6973 	
+	  	  	 
+LCSM 	Finding a Shared Motif 	5922 	
+	  	  	 
+MPRT 	Finding a Protein Motif 	3714 	
+	  	  	 
+MRNA 	Inferring mRNA from Protein 	5705 	
+	  	  	 
+ORF 	Open Reading Frames 	4405 	
+	  	  	 
+PERM 	Enumerating Gene Orders 	7873 	
+	  	  	 
+PRTM 	Calculating Protein Mass 	7265 	
+	  	  	 
+REVP 	Locating Restriction Sites 	4703 	
+	  	  	 
+SPLC 	RNA Splicing 	5204 	
+	  	  	 
+IEV 	Calculating Expected Offspring 	6366 	
+	  	  	 
+LIA 	Independent Alleles 	3368 	
+	  	  	 
+LEXF 	Enumerating k-mers Lexicographically 	4392 	
+	  	  	 
+LGIS 	Longest Increasing Subsequence 	1927 	
+	  	  	 
+LONG 	Genome Assembly as Shortest Superstring 	2200 	
+	  	  	 
+PMCH 	Perfect Matchings and RNA Secondary Structures 	2068 	
+	  	  	 
+PPER 	Partial Permutations 	2897 	
+	  	  	 
+PROB 	Introduction to Random Strings 	2830 	
+	  	  	 
+SIGN 	Enumerating Oriented Gene Orderings 	2940 	
+	  	  	 
+SSEQ 	Finding a Spliced Motif 	3144 	
+	  	  	 
+TRAN 	Transitions and Transversions 	3006 	
+	  	  	 
+TREE 	Completing a Tree 	2569 	
+	  	  	 
+CAT 	Catalan Numbers and RNA Secondary Structures 	867 	
+	  	  	 
+CORR 	Error Correction in Reads 	1417 	
+	  	  	 
+INOD 	Counting Phylogenetic Ancestors 	1904 	
+	  	  	 
+KMER 	k-Mer Composition 	2140 	
+	  	  	 
+KMP 	Speeding Up Motif Finding 	1717 	
+	  	  	 
+LCSQ 	Finding a Shared Spliced Motif 	1482 	
+	  	  	 
+LEXV 	Ordering Strings of Varying Length Lexicographically 	2399 	
+	  	  	 
+MMCH 	Maximum Matchings and RNA Secondary Structures 	1046 	
+	  	  	 
+PDST 	Creating a Distance Matrix 	1551 	
+	  	  	 
+REAR 	Reversal Distance 	768 	
+	  	  	 
+RSTR 	Matching Random Motifs 	1176 	
+	  	  	 
+SSET 	Counting Subsets 	1813 	
+	  	  	 
+ASPC 	Introduction to Alternative Splicing 	1145 	
+	  	  	 
+EDIT 	Edit Distance 	1103 	
+	  	  	 
+EVAL 	Expected Number of Restriction Sites 	893 	
+	  	  	 
+MOTZ 	Motzkin Numbers and RNA Secondary Structures 	560 	
+	  	  	 
+NWCK 	Distances in Trees 	700 	
+	  	  	 
+SCSP 	Interleaving Two Motifs 	679 	
+	  	  	 
+SETO 	Introduction to Set Operations 	1441 	
+	  	  	 
+SORT 	Sorting by Reversals 	588 	
+	  	  	 
+SPEC 	Inferring Protein from Spectrum 	1121 	
+	  	  	 
+TRIE 	Introduction to Pattern Matching 	870 	
+	  	  	 
+CONV 	Comparing Spectra with the Spectral Convolution 	724 	
+	  	  	 
+CTBL 	Creating a Character Table 	405 	
+	  	  	 
+DBRU 	Constructing a De Bruijn Graph 	739 	
+	  	  	 
+EDTA 	Edit Distance Alignment 	720 	
+	  	  	 
+FULL 	Inferring Peptide from Full Spectrum 	508 	
+	  	  	 
+INDC 	Independent Segregation of Chromosomes 	582 	
+	  	  	 
+ITWV 	Finding Disjoint Motifs in a Gene 	276 	
+	  	  	 
+LREP 	Finding the Longest Multiple Repeat 	401 	
+	  	  	 
+NKEW 	Newick Format with Edge Weights 	436 	
+	  	  	 
+RNAS 	Wobble Bonding and RNA Secondary Structures 	395 	
+	  	  	 
+AFRQ 	Counting Disease Carriers 	494 	
+	  	  	 
+CSTR 	Creating a Character Table from Genetic Strings 	258 	
+	  	  	 
+CTEA 	Counting Optimal Alignments 	275 	
+	  	  	 
+CUNR 	Counting Unrooted Binary Trees 	251 	
+	  	  	 
+GLOB 	Global Alignment with Scoring Matrix 	514 	
+	  	  	 
+PCOV 	Genome Assembly with Perfect Coverage 	528 	
+	  	  	 
+PRSM 	Matching a Spectrum to a Protein 	390 	
+	  	  	 
+QRT 	Quartets 	208 	
+	  	  	 
+SGRA 	Using the Spectrum Graph to Infer Peptides 	336 	
+	  	  	 
+SUFF 	Encoding Suffix Trees 	290 	
+	  	  	 
+CHBP 	Character-Based Phylogeny 	139 	
+	  	  	 
+CNTQ 	Counting Quartets 	147 	
+	  	  	 
+EUBT 	Enumerating Unrooted Binary Trees 	135 	
+	  	  	 
+GASM 	Genome Assembly Using Reads 	289 	
+	  	  	 
+GCON 	Global Alignment with Constant Gap Penalty 	331 	
+	  	  	 
+LING 	Linguistic Complexity of a Genome 	175 	
+	  	  	 
+LOCA 	Local Alignment with Scoring Matrix 	346 	
+	  	  	 
+MEND 	Inferring Genotype from a Pedigree 	225 	
+	  	  	 
+MGAP 	Maximizing the Gap Symbols of an Optimal Alignment 	182 	
+	  	  	 
+MREP 	Identifying Maximal Repeats 	155 	
+	  	  	 
+MULT 	Multiple Alignment 	185 	
+	  	  	 
+PDPL 	Creating a Restriction Map 	203 	
+	  	  	 
+ROOT 	Counting Rooted Binary Trees 	215 	
+	  	  	 
+SEXL 	Sex-Linked Inheritance 	378 	
+	  	  	 
+SPTD 	Phylogeny Comparison with Split Distance 	152 	
+	  	  	 
+WFMD 	The Wright-Fisher Model of Genetic Drift 	297 	
+	  	  	 
+ALPH 	Alignment-Based Phylogeny 	100 	
+	  	  	 
+ASMQ 	Assessing Assembly Quality with N50 and N75 	230 	
+	  	  	 
+CSET 	Fixing an Inconsistent Character Set 	115 	
+	  	  	 
+EBIN 	Wright-Fisher's Expected Behavior 	248 	
+	  	  	 
+FOUN 	The Founder Effect and Genetic Drift 	233 	
+	  	  	 
+GAFF 	Global Alignment with Scoring Matrix and Affine Gap Penalty 	277 	
+	  	  	 
+GREP 	Genome Assembly with Perfect Coverage and Repeats 	176 	
+	  	  	 
+OAP 	Overlap Alignment 	155 	
+	  	  	 
+QRTD 	Quartet Distance 	73 	
+	  	  	 
+SIMS 	Finding a Motif with Modifications 	191 	
+	  	  	 
+SMGB 	Semiglobal Alignment 	160 	
+	  	  	 
+KSIM 	Finding All Similar Motifs 	68 	
+	  	  	 
+LAFF 	Local Alignment with Affine Gap Penalty 	162 	
+	  	  	 
+OSYM 	Isolating Symbols in Alignments 	115 	
+	  	  	 
+RSUB 	Identifying Reversing Substitutions 	84 	
+
